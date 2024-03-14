@@ -1,0 +1,7 @@
+{
+  "name": "PParcial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
